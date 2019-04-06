@@ -19,7 +19,7 @@ public class HelloWorldApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo Lliriano!"); //Display de string
+        System.out.println("Hola mòn Llirià!"); //Display de string
     }
     
 }
